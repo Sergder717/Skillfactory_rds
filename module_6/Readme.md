@@ -1,4 +1,4 @@
-![Title PNG "Skill Factory"](https://user-images.githubusercontent.com/82756474/145072106-304cfe40-9a4c-41c4-a1ef-35c502b4900d.png)
+![Title PNG "Skill Factory"](https://user-images.githubusercontent.com/82756474/145072620-c7947355-bea9-4f61-ba7c-e7db5e0cff6a.png)
 
 
 # Проект №6. Car Price prediction
