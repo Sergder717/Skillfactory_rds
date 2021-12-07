@@ -1,6 +1,6 @@
 
 
-![Title PNG "Skill Factory"](C:/Users/derev/projects/SkillFactory/module_6/Без названия.png)
+![Title PNG "Skill Factory"]<img src="file:///C:/Users/derev/projects/SkillFactory/module_6/Без названия.png" />
 # Проект №6. Car Price prediction
 
 <!-- vim-markdown-toc Redcarpet -->
