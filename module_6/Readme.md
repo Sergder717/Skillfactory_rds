@@ -1,6 +1,6 @@
+![Title PNG "Skill Factory"](https://user-images.githubusercontent.com/82756474/145072106-304cfe40-9a4c-41c4-a1ef-35c502b4900d.png)
 
 
-![Title PNG "Skill Factory"]<img src="file:///C:/Users/derev/projects/SkillFactory/module_6/Без названия.png" />
 # Проект №6. Car Price prediction
 
 <!-- vim-markdown-toc Redcarpet -->
