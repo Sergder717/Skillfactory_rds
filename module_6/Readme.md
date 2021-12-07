@@ -1,12 +1,12 @@
 
 
-![Title PNG "Skill Factory"](/assets/skillfactory_logo.png)
+![Title PNG "Skill Factory"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fskillfactory.ru%2Fdst_kinokurs&psig=AOvVaw1BOLNf-_p97Q_I59Eft9Eu&ust=1638981426195000&source=images&cd=vfe&ved=2ahUKEwjjlvHej9L0AhWCzioKHfGKDlMQjRx6BAgAEAk)
 # Проект №6. Car Price prediction
 
 <!-- vim-markdown-toc Redcarpet -->
 
 * [Задача](#задача)
-    * [Краткое описание](#описание)
+    * [Краткое описание](#краткое-описание)
     * [Детали реализации](#детали-реализации)
 * [Структура репозитория](#структура-репозитория)
 
@@ -64,10 +64,7 @@ https://www.kaggle.com/c/sf-dst-car-price-prediction
 12. Создана модель 5. XGBRegressor
 13. Сделан Stacking
 
-
 ## Структура репозитория
-
-В папке [data](data) находятся zip-файлы из https://www.kaggle.com/c/recommendationsv4/data
 
 В корневой папке находятся все ноутбуки:
 
