@@ -12,13 +12,19 @@
 
 <!-- vim-markdown-toc -->
 
-Проект выполнил: [Sergey Derevyanov]
+Проект выполнил: Sergey Derevyanov
+
 Дата завершения проекта: 09.12.2021
+
 Группа: group_dspr-44
 
 Логин на kaggle.com: sergeyderevyanov
 
-[Отчетный ноутбук](main.ipynb)
+Ссылка на работу kaggle.com: https://www.kaggle.com/sergeyderevyanov/derevyanov-s-sf-dst-car-price-prediction
+
+Оценка на ЛБ: 15.37946
+
+[Отчетный ноутбук](https://github.com/Sergder717/Skillfactory_rds/blob/main/module_6/derevyanov-s-sf-dst-car-price-prediction.ipynb)
 
 ## Задача
 
@@ -66,7 +72,7 @@ https://www.kaggle.com/c/sf-dst-car-price-prediction
 
 ## Структура репозитория
 
-В корневой папке находятся все ноутбуки:
+В корневой папке находятся все файлы:
 
 - Файл derevyanov-s-sf-dst-car-price-prediction.ipynb - ноутбук с решением проекта https://github.com/Sergder717/Skillfactory_rds/blob/main/module_6/derevyanov-s-sf-dst-car-price-prediction.ipynb
 - Папка auto_ru_parsing_12_2021 - файлы с данными, собранные парсером https://github.com/Sergder717/Skillfactory_rds/tree/main/module_6/auto_ru_parsing_12_2021
